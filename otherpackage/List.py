@@ -10,4 +10,5 @@ print(userAge)
 print(rangeUserAge)
 
 customList = [7, 3, "some string"]
+print(customList)
 
